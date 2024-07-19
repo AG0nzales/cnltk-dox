@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "raleway";
+  src: url(../public/Raleway-VariableFont_wght.ttf);
+}
+
+.raleway {
+  font-family: "raleway";
+}
+
+body {
+  --tw-bg-opacity: 1;
+  background-color: rgb(245 245 245 / var(--tw-bg-opacity)) /* #f9fafb */;
+}
