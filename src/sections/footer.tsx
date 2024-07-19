@@ -48,7 +48,7 @@ const Footer = () => {
           <hr className="border-t border-gray-400 mt-10 mb-10 w-full" />
           <div className="flex justify-center items-center">
             <span className="raleway text-xs font-normal">
-              © Josh Gnzls 2024
+              © Josh Gnzls 2023
             </span>
           </div>
         </div>
