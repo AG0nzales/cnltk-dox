@@ -21,7 +21,10 @@ function App() {
       <section id="explore" className="content-sections border-b pb-20">
         <Explore />
       </section>
-      <section id="footer" className="content-sections border bg-gray-200 pb-5">
+      <section
+        id="articles"
+        className="content-sections border bg-gray-200 pb-5"
+      >
         <Footer />
       </section>
     </main>

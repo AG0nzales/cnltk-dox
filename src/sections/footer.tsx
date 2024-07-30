@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
     <main className="models-mainpage mt-10 flex flex-col items-center">
-      <section className="flex flex-col items-start w-full max-w-6xl mt-20 sm:mt-20 lg:mt-2">
-        <div className="w-full grid grid-cols-4 gap-20">
+      <section className="flex flex-col items-start w-full max-w-6xl mt-2 sm:mt-2 lg:mt-2">
+        <div className="w-full grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-4 gap-20 p-2">
           <div className="flex flex-col gap-2 w-full">
             <span className="raleway font-bold text-4xl ">CNLTK</span>
             <span className="raleway font-semibold text-sm ">
