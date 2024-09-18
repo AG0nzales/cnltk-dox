@@ -5,11 +5,11 @@ const Explore = () => {
         <div className="w-full p-2">
           <div className="flex flex-col text-center items-center gap-4">
             <span className="raleway text-xl sm:text-xl lg:text-3xl font-bold tracking-wide">
-              Developers that made the Cebuano Natural Language Toolkit possible
+              Meet the people behind the Cebuano Natural Language Toolkit
             </span>
             <div className="max-w-2xl">
               <span className="raleway opacity-50 tracking-wide text-sm sm:text-sm lg:text-lg">
-                These are the developers that made the CNLTK possible
+                The developers that made the CNLTK
               </span>
             </div>
           </div>
@@ -28,7 +28,7 @@ const Explore = () => {
                     Glenn Nituda
                   </span>
                   <span className="raleway text-sm text-gray-400 font-semibold">
-                    Software Engineer
+                    Software Developer
                   </span>
                   <hr className="mt-5 mb-5" />
                   <div>
@@ -55,7 +55,7 @@ const Explore = () => {
                     Joshua Gonzales
                   </span>
                   <span className="raleway text-sm text-gray-400 font-semibold">
-                    Software Engineer
+                    Software Developer
                   </span>
                   <hr className="mt-5 mb-5" />
                   <div>

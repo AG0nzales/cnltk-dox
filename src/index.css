@@ -13,5 +13,8 @@
 
 body {
   --tw-bg-opacity: 1;
-  background-color: rgb(245 245 245 / var(--tw-bg-opacity)) /* #f9fafb */;
+  background-color: rgb(245 245 245 / var(--tw-bg-opacity)); /* #f9fafb */
+  background-image: radial-gradient(ellipse at top, #e5e7eb, #f3f4f6, #87ceeb);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
